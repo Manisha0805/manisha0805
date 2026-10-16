@@ -28,6 +28,8 @@
 - 🌱 Improving my backend development skills
 - 🎯 Focused on becoming a skilled software developer
 
+---
+
 ## 🛠️ Technical Skills
 
 <p align="center">
@@ -35,19 +37,19 @@
 </p>
 
 ### Languages
-C++ · JavaScript · SQL
+C++ · JavaScript 
 
 ### Frontend Development
 React.js · HTML5 · CSS3 · Tailwind CSS
 
 ### Backend Development
-Node.js · Express.js · REST APIs · Socket.IO
+Node.js · Express.js · REST APIs · Socket.IO · JWT Authentication · API Integration
 
 ### Databases
-MongoDB · MySQL
+MongoDB · MySQL · Sequelize ORM
 
 ### Tools
-Git · GitHub · VS Code
+Git · GitHub · VS Code · Postman
 
 ---
 
@@ -55,25 +57,34 @@ Git · GitHub · VS Code
 
 ### 💻 Real-Time Collaborative Coding Platform
 
-A collaborative coding platform designed to support real-time code editing and communication.
+A web-based platform designed for collaborative programming in a shared coding environment.
 
-**Tech Stack:** React.js, Node.js, Express.js, Socket.IO
+**Tech Stack:** React.js, Node.js, Express.js, Socket.IO, Sequelize, Monaco Editor
 
 **Key Features:**
-- Real-time collaborative code editing
-- Integrated communication features
-- Code execution integration
-- Interactive coding environment
+- 🤝 Real-time collaborative code editing
+- 💬 Live communication between users
+- ⚔️ Battle Mode for competitive coding challenges
+- 💻 Code execution integration using Judge0
+- 📝 Interactive code editor powered by Monaco Editor
+- 🔄 Shared coding workspace
 
 ### 🌦️ Weather Track 360
 
-A weather application built to display weather information through a React-based interface.
+An interactive weather application featuring a 3D globe, real-time weather updates, local time information, and weather news to explore weather conditions around the world.
 
 **Tech Stack:** React.js, JavaScript, HTML5, CSS3
 
+**Key Features:**
+- 🌍 Interactive 3D globe for exploring locations worldwide
+- 🌤️ Real-time weather information for selected locations
+- 🕒 Local time and time-zone information
+- 📰 Weather-related news and updates
+- 📍 Location-based weather exploration
+
 ### 💰 Expense Tracker Calculator
 
-A C++ project focused on expense calculations and programming fundamentals.
+A C++ application focused on expense calculations and programming fundamentals.
 
 **Tech Stack:** C++
 
@@ -97,17 +108,6 @@ A C++ project focused on expense calculations and programming fundamentals.
 
 ---
 
-## 🌐 Connect With Me
-
 <p align="center">
-  <a href="https://github.com/manisha0805">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/manisha-88a6b9288/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-</p>
-
-<p align="center">
-  Thanks for visiting my profile!
+  <i>Thanks for visiting my profile! Let's build something meaningful.</i>
 </p>
