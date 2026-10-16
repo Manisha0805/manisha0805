@@ -1,50 +1,63 @@
+<h1 align="center">Hi 👋, I'm Manisha</h1>
 
-# Hi, I'm Manisha
+<h3 align="center">
+  Computer Science Engineering Student | MERN Stack Developer
+</h3>
 
-### Computer Science Engineering Student | MERN Stack Developer
+<p align="center">
+  Building full-stack applications and solving problems with C++.
+</p>
 
-I build full-stack web applications and practice problem-solving
-using C++ and Data Structures & Algorithms.
+---
 
-## Technical Skills
+## 👩‍💻 About Me
 
-- **Languages:** C++, JavaScript, SQL
-- **Frontend:** React.js, HTML5, CSS3, Tailwind CSS
-- **Backend:** Node.js, Express.js, REST APIs, Socket.IO
-- **Databases:** MongoDB, MySQL
-- **Tools:** Git, GitHub, VS Code
+- 🎓 Computer Science Engineering student at JMIT
+- 💻 Interested in Full Stack Development
+- 🚀 Building practical web applications using the MERN stack
+- 🧠 Practicing Data Structures and Algorithms in C++
+- 🌱 Improving my backend development skills
 
-## Featured Projects
+## 🛠️ Tech Stack
 
-### Real-Time Collaborative Coding Platform
-A collaborative coding application with real-time editing
-and communication features.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,vite,tailwind,nodejs,express,mongodb,mysql,git,github,vscode" />
+</p>
 
-### Weather Track 360
-A weather application built using React.js.
+## 🚀 Featured Projects
 
-## Currently Learning
+### 💻 Real-Time Collaborative Coding Platform
 
-- Backend development
-- Data Structures & Algorithms
-- Software engineering best practices
+A collaborative coding platform with real-time editing,
+communication, and code execution integration.
 
-## Connect With Me
+**Technologies:** React, Node.js, Express, Socket.IO, MongoDB
 
-- GitHub: https://github.com/manisha0805
- LinkedIn: [Connect with me](https://www.linkedin.com/in/manisha-88a6b9288/)
+### 🌦️ Weather Track 360
 
-<!--
-**Manisha0805/manisha0805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A weather application built with React.
 
-Here are some ideas to get you started:
+**Technologies:** React, JavaScript, HTML, CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💰 Expense Tracker Calculator
+
+A C++ project focused on expense calculations.
+
+**Technology:** C++
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/manisha-88a6b9288/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/manisha0805">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  Thanks for visiting my profile!
+</p>
